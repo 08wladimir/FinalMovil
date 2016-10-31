@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298850656409",
+    "firebase_url": "https://final-movil-f0e48.firebaseio.com",
+    "project_id": "final-movil-f0e48",
+    "storage_bucket": "final-movil-f0e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298850656409:android:57f7fc74e087d0bd",
+        "android_client_info": {
+          "package_name": "com.example.wladimir.finalmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298850656409-2t2dke754reha4d4oc0olpdil15bfdr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cEHCyfz1tOHaWlyhOr8y7sEZsatpbfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
