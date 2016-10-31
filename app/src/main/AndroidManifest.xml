@@ -24,17 +24,6 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAdBiVoRsAQ3c5gwdNVQS1TFMjwJjbXy0Q"/>
 
-        <service android:name=".MyFirebaseInstanceIdService">
-            <intent-filter>
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"></action>
-            </intent-filter>
-        </service>
-        <service android:name=".MyFirebaseMessagingService">
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT"></action>
-            </intent-filter>
-        </service>
-
     </application>
 
 </manifest>

@@ -13,7 +13,7 @@
         android:id="@+id/tabLayout"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:background="#cdc36e"
+        android:background="#FE2E2E"
         app:tabMode="fixed"
         app:tabGravity="fill"/>
 
